@@ -1,0 +1,4 @@
+.DS_Store
+./data
+./src/__pycache__/
+./yolo/yolov3-obj-train_last.weights
